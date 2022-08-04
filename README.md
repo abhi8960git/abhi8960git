@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **e-commercial-website**
 
-- 💬 Ask me about **react,machine learning**
+- 💬 Ask me about **react,machine learning,css,javascript,c++**
 
 - 📫 How to reach me **21bcs116@nith.ac.in**
 
