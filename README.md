@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Abhishek Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on React **e-commercial-website**
+- 🔭 I’m currently working on React **block-chain-Development**
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **React.js ,blockchain**
 
-- 👯 I’m looking to collaborate on **e-commercial-website**
+- 👯 I’m looking to collaborate on **blockchain Hackthons**
 
-- 💬 Ask me about **react,machine learning,css,javascript,c++**
+- 💬 Ask me about **react,angular,css,javascript,c++,blockchain devleopment**
 
 - 📫 How to reach me **21bcs116@nith.ac.in**
 
