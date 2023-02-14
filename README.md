@@ -1,6 +1,14 @@
 <h1 align="center">Hi 👋, I'm Abhishek Kumar</h1>
 <h3 align="center">A passionate web2 and web3 developer from India</h3>
 
+- 🔭 I’m currently working on **Blockchain Development.**
+
+- 🌱 I’m currently learning **Hyperledger Fabric**
+
+- 👯 I’m looking to collaborate on **Blockchain Development**
+
+- 💬 Ask me about **Blockchain Development, HTML,CSS,Js,React.js,Angular.js,Next.js**
+
 - 📫 How to reach me **abhi8994y@gmail.com**
 
 - ⚡ Fun fact **I am selectively extrovert.**
