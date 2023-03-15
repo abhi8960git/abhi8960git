@@ -12,6 +12,7 @@
 - 📫 How to reach me **abhi8994y@gmail.com**
 
 - ⚡ Fun fact **I am selectively extrovert.**
+- My other gitHub account https://github.com/ak785y
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
