@@ -13,9 +13,9 @@ Hi 👋, I'm Abhishek Kumar<br>A passionate web2 and web3 developer from India<b
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhi8960git&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+(https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=abhi8960git&icon=0&color=0)](https://visitcount.itsvg.in)
+(https://visitcount.itsvg.in/api?id=abhi8960git&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
