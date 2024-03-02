@@ -1,10 +1,14 @@
 # 💫 About Me:
+
+<div align="left">
+  <img height="400" width="800" src="https://cdnb.artstation.com/p/assets/images/images/048/282/733/original/exceptrea-gamerroom-1-revisioned-0.gif?1649761105"  />
+</div>
+
+
 Hi 👋, I'm Abhishek Kumar<br>A passionate MERN Stack and web3 developer from India<br><br>- 🔭 I’m currently working on **Blockchain Development.**<br><br>- 🌱 I’m currently learning **Solana Blockchain and De-Fi**<br><br>- 👯 I’m looking to collaborate on **Blockchain Development,Web Development**<br><br>- 💬 Ask me about **Blockchain Development | Web Development | Next.js | Flutter**<br><br>- 📫 How to reach me **abhi8994y@gmail.com**<br><br>- ⚡ Fun fact **I am selectively extrovert.**<br>- My other gitHub account https://github.com/ak785y
 
 
-<div align="center">
-  <img height="400" width="800" src="https://cdnb.artstation.com/p/assets/images/images/048/282/733/original/exceptrea-gamerroom-1-revisioned-0.gif?1649761105"  />
-</div>
+
 
 
 ## 🌐 Socials:
