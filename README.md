@@ -4,6 +4,8 @@
   </a>
 </p>
 
+<p align="center"><b>Abhishek Kumar</b></p>
+
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20%7C%20Backend%20Developer;Rust%20%7C%20Solana%20Enthusiast;Web3%20%26%20Blockchain%20Learner;Always%20building%20and%20learning&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />
@@ -67,9 +69,9 @@
 ## 📈 GitHub Stats & Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[your-github-username]&theme=monokai-metallian&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api?username=[your-github-username]&show_icons=true&theme=react&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[your-github-username]&langs_count=8&layout=compact&theme=react&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhi8960git&theme=monokai-metallian&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abhi8960git&show_icons=true&theme=react&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi8960git&langs_count=8&layout=compact&theme=react&hide_border=true" alt="Top Languages" />
 </p>
 
 ## 🕒 Recent GitHub Activity
