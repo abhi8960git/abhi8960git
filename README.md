@@ -68,14 +68,37 @@
   <img src="https://github-readme-stats.vercel.app/api?username=abhi8960git&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi8960git&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
+
 ---
 
 ## 📌 Pinned Projects
 
-- [**EthereStake**](https://github.com/abhi8960git/EthereStake): DAO for fundraising proposals (TypeScript)
-- [**PokeVerse_**](https://github.com/abhi8960git/PokeVerse_): Backend for Pokeverse (JavaScript)
-- [**Stop-loss-hook**](https://github.com/abhi8960git/Stop-loss-hook): Solidity contract
-- [**NFT Staking Rewards System**](https://github.com/abhi8960git/NFT_staking_Rewards_System): Solidity project
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/abhi8960git/EthereStake">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhi8960git&repo=EthereStake&theme=tokyonight&hide_border=true" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/abhi8960git/PokeVerse_">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhi8960git&repo=PokeVerse_&theme=tokyonight&hide_border=true" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/abhi8960git/Stop-loss-hook">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhi8960git&repo=Stop-loss-hook&theme=tokyonight&hide_border=true" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/abhi8960git/NFT_staking_Rewards_System">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhi8960git&repo=NFT_staking_Rewards_System&theme=tokyonight&hide_border=true" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
