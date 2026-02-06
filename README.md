@@ -31,7 +31,7 @@ impl Developer {
         Developer {
             name: "Abhishek Kumar",
             location: "India 🗾",
-            role: "Web3 Developer | Blockchain Enthusiast | Anime Lover",
+            role: "Web3 Developer | Blockchain Enthusiast ",
             blockchain: vec!["Solidity", "Web3.js", "Solana", "zkProofs"],
             web_stack: vec!["JavaScript", "TypeScript", "React", "Node.js", "MongoDB"],
             currently_learning: vec!["Solana", "Zero-Knowledge Proofs", "High Frequency Systems"],
