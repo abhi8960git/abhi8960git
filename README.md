@@ -9,7 +9,7 @@
 - AI Tools
 
 ## 🤝 I'm looking for help with
-- *[You can add specific areas where you need help]*
+- Web3 Solana, zk, high frequency system
 
 ## 🌱 I'm currently learning
 - Web3 Solana, zk, high frequency systems
