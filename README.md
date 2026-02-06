@@ -1,14 +1,13 @@
 <div align="center">
-
-<!-- Pixel Art GIF Header -->
-<img src="https://inspgr.id/app/uploads/2023/05/pixel-art-kirokaze-19.gif" alt="Pixel Art Header" width="100%"/>
-
-<br/>
-<br/>
-
+<!-- Anime Wave Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Welcome%20to%20My%20Profile&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=fff" />
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Konnichiwa!+👋;Web3+Developer+💻;Blockchain+Enthusiast+⛓️;Anime+Lover+⚡;Building+the+Future+🚀" alt="Typing SVG" />
-
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Konnichiwa!+%F0%9F%91%8B;Web3+Developer+%F0%9F%92%BB;Blockchain+Enthusiast+%E2%9B%93%EF%B8%8F;Anime+Lover+%E2%9A%A1;Building+the+Future+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
+<br/>
+<!-- Anime themed divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
 ---
