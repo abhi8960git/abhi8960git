@@ -2,6 +2,7 @@
  <img width="735" height="515" alt="image" src="https://github.com/user-attachments/assets/07bf718d-0c52-4d1e-bdb4-eea5f3dbe0f6" />
 <!-- Typing Animation -->
 <!-- Typing Animation -->
+ --- 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Web3+Full+Stack+Developer;Screen+Geek" alt="Typing SVG" />
 </a>
