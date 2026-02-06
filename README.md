@@ -1,18 +1,15 @@
 <div align="center">
 <img width="735" height="515" alt="image" src="https://github.com/user-attachments/assets/425846c2-02c5-4867-ae99-50dbb37bb066" />
 
-<!-- Horizontal line -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <br/> 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Web3+Full+Stack+Developer;Screen+Geek" alt="Typing SVG" />
 </a>
-<br/>
-  
+<br/> 
 </div>
 
----
+
 
 ## 🎌 About Me
 
