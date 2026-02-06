@@ -1,4 +1,5 @@
 <div align="center">
+  <img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/42e03cda-e32d-4567-99f3-09b8b3f37870" />
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Konnichiwa!+%F0%9F%91%8B;Web3+Developer+%F0%9F%92%BB;+%E2%9B%93%EF%B8%8F;Anime+Lover+%E2%9A%A1;Building+the+Future+%F0%9F%9A%80" alt="Typing SVG" />
@@ -170,16 +171,6 @@ impl Developer {
 
 ---
 
-## 🔝 Top Contributed Repo
-
-<div align="center">
-
-<img src="https://github-contributor-stats.vercel.app/api?username=abhi8960git&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
-
-</div>
-
----
-
 ## 🎭 Favorite Anime Characters
 
 <div align="center">
@@ -195,8 +186,6 @@ impl Developer {
 
 ---
 
-
----
 
 ## 🌸 Connect With Me
 
